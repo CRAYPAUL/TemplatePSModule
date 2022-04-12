@@ -6,8 +6,6 @@ This is a template for a basic PowerShell module. You only need to follow a few 
 
 
 
-\n
-\n
 
 
 *TemplateModule is the placeholder naming scheme used for this template. To change the module name, you will need to do the following:*
