@@ -6,6 +6,11 @@ This is a template for a basic PowerShell module. You only need to follow a few 
 
 
 
+
+__
+__
+
+
 *TemplateModule is the placeholder naming scheme used for this template. To change the module name, you will need to do the following:*
-- *Rename the module folder + TemplateModule.psd1 & TemplateModule.psm1 files.*
-- *In the .psd1 manifest file, make sure to also rename the 'RootModule: ' element.*
+*- Rename the module folder + TemplateModule.psd1 & TemplateModule.psm1 files.
+*- In the .psd1 manifest file, make sure to also rename the 'RootModule: ' element.*
