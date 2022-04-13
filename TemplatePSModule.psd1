@@ -1,5 +1,5 @@
 ﻿@{
-    RootModule           = 'TemplateModule.psm1'
+    RootModule           = 'TemplatePSModule.psm1'
     ModuleVersion        = '1.0.0'
     CompatiblePSEditions = @('Desktop','Core')
     Description          = 'Example description.'
@@ -10,9 +10,9 @@
     CmdletsToExport      = @()
     AliasesToExport      = @()
     FunctionsToExport    = @(
-        'Search-Example',
-        'Start-Example',
-        'Request-Example'
+        'Search-Example',        #Example placeholder function
+        'Start-Example',         #Example placeholder function
+        'Request-Example'        #Example placeholder function
     )
     
 }
