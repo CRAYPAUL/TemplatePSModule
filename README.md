@@ -1,5 +1,5 @@
 ## TemplateModule ##
-This is a template for a basic PowerShell module. You only need to follow a few steps to create simple, scalable PS module.
+This is a template for a PowerShell module. You only need to follow a few steps to create a simple, scalable PS module.
 - Import your PowerShell script(s) into the /repo/ folder 
 - Within TemplateModule.psd1, modify the 'FunctionsToExport: ' to include the names of the functions you intend to use.
 - Make sure the module folder is located in one of the valid module paths. These paths are stored in the $env:PSModulePath variable.
